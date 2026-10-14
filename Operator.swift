@@ -1,0 +1,8 @@
+let name1 = "Arun"
+var mark = "85"
+print(name1)
+print(mark)
+let name = "Sedhu"
+mark = "90"
+print(name)
+print(mark)
